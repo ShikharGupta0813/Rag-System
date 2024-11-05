@@ -1,0 +1,1 @@
+RAG System 🔍💡 - A Retrieval-Augmented Generation system that combines the power of search and language generation. It retrieves relevant information from documents and generates concise, context-aware responses, enhancing accuracy and efficiency in summarization or Q&A tasks.
